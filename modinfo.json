@@ -1,0 +1,20 @@
+{
+  "author": "wondible",
+  "build": "89755",
+  "category": ["strategic-icons"],
+  "context": "client",
+  "date": "2015/11/21",
+  "description": "Allows you to see additional custom strategic icons from compatible server mods.",
+  "display_name": "Icon Extensions",
+  "forum": null,
+  "identifier": "com.wondible.pa.icon_extensions",
+  "priority": 100,
+  "scenes": {
+    "icon_atlas": [
+      "coui://ui/mods/icon_extensions/icon_atlas.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
