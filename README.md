@@ -2,7 +2,7 @@
 
 Allows you to see additional custom strategic icons from compatible server mods.
 
-Since it's meant to server as a sort of univeral client mod for server mods, it also includes a hook to reload the game lobby when required for UI updates.
+Since it's meant to server as a sort of universal client mod for server mods, it also includes a hook to reload the game lobby when required for UI updates.
 
 Mod authors: see Icon Reloader; this greatly increases the unused icon pool.
 
