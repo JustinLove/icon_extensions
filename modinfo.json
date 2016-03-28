@@ -1,10 +1,10 @@
 {
   "author": "wondible",
-  "build": "89755",
+  "build": "89755-patch",
   "category": ["strategic-icons"],
   "context": "client",
-  "date": "2016/01/26",
-  "description": "Obsolete stub to allow dependency migration. Formally allowed you to see additional custom strategic icons from compatible server mods.",
+  "date": "2016/03/27",
+  "description": "Obsolete stub to allow dependency migration. Uninstall if possible. Formally allowed you to see additional custom strategic icons from compatible server mods.",
   "display_name": "Icon Extensions (Obsolete)",
   "forum": "https://forums.uberent.com/threads/rel-icon-extensions.70969/",
   "icon": "http://wondible.com/pa/icons/icon_extensions.png",
