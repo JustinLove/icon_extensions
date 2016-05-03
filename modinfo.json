@@ -1,9 +1,9 @@
 {
   "author": "wondible",
-  "build": "89755-patch",
+  "build": "94243-pte",
   "category": ["strategic-icons"],
   "context": "client",
-  "date": "2016/03/27",
+  "date": "2016/05/03",
   "description": "Obsolete stub to allow dependency migration. Uninstall if possible. Formally allowed you to see additional custom strategic icons from compatible server mods.",
   "display_name": "Icon Extensions (Obsolete)",
   "forum": "https://forums.uberent.com/threads/rel-icon-extensions.70969/",
@@ -11,11 +11,11 @@
   "identifier": "com.wondible.pa.icon_extensions",
   "priority": 100,
   "scenes": {
-    "new_game": [
-      "coui://ui/mods/icon_extensions/new_game.js"
+    "start": [
+      "coui://ui/mods/icon_extensions/warning.js"
     ]
   },
   "signature": "not yet implemented",
-  "version": "2.0.0"
+  "version": "2.1.0"
 }
 
