@@ -9,10 +9,7 @@
       modal: true,
       autoOpen: true,
       buttons: {
-          "EXIT": function () {
-              model.exit();
-          },
-          "LATER": function () {
+          "OK": function () {
               $(this).dialog("close");
           }
       }
